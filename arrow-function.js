@@ -1,4 +1,5 @@
 //Arrow function
+                    //parametro => Instrução da função
 const apresentarArrow = nome => `Meu nome é ${nome}`;
 const soma = (num1, num2) => num1 + num2;
 
