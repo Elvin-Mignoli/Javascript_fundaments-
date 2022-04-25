@@ -24,7 +24,7 @@ const cliente = {
 
 const propsClientes = Object.keys(cliente);
 
-console.log(propsClientes);
+//console.log(propsClientes);
 
 function oferecerSeguro(obj){
     const propsClientes = Object.keys(obj);
@@ -35,6 +35,6 @@ function oferecerSeguro(obj){
 
 oferecerSeguro(cliente); 
 
-console.log(Object.values(cliente));
+//console.log(Object.values(cliente));
 
 console.log(Object.entries(cliente));
