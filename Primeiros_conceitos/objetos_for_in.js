@@ -1,4 +1,4 @@
-//exeplo para declarar um objeto
+//exemplo para declarar um objeto
 const cliente = {
     nome: "Andre",
     idade:36,
